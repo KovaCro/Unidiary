@@ -27,6 +27,12 @@ npm run build # build electron application for production
 ```
 ## Previews
 
+![Preview1](https://github.com/KovaCro/Unidiary/blob/previews/Preview1.gif?raw=true)
+
+![Preview2](https://github.com/KovaCro/Unidiary/blob/previews/Preview2.gif?raw=true)
+
+![Preview3](https://github.com/KovaCro/Unidiary/blob/previews/Preview3.gif?raw=true)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
