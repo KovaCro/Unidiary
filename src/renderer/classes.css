@@ -1,0 +1,52 @@
+.textFont {
+    font-family: "B612";
+}
+
+.titlesFont {
+    font-family: "AlfaSlabOne";
+}
+
+.codeFont {
+    font-family: "SourceCodePro";
+}
+
+.appBg {
+    background-color: rgb(59, 44, 53);
+}
+
+.secondaryBg {
+    background-color: rgb(42, 31, 45);
+}
+
+.darkBg {
+    background-color: rgb(35, 26, 32);
+}
+
+.darkInputBg {
+    background-color: rgb(46, 38, 43);
+}
+
+.lightInputBg {
+    background-color: rgb(69, 55, 63);
+}
+
+.greenBg {
+    background-color: rgb(89, 201, 165);
+}
+
+.greenText {
+    color: rgb(89, 201, 165);
+}
+
+.grayText {
+    color: rgb(196, 191, 194);
+}
+
+.grayFill {
+    fill: rgb(196, 191, 194);
+}
+
+.darkGrayText {
+    color: rgb(120, 111, 117);
+}
+

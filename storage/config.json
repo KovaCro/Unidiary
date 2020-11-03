@@ -1,0 +1,11 @@
+{
+  "keyword": "unidiary",
+  "categories": ["Homework", "Class", "Practice", "Exam"],
+  "languages": ["Cpp", "Javascript", "Python", "Go", "Haskell"],
+  "shortcuts": [
+      "git remote add origin <server>",
+      "git add .",
+      "git commit -m ''",
+      "git push origin master"
+  ]
+}
