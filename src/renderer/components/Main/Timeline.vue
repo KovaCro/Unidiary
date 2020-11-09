@@ -44,7 +44,7 @@
           el = el[0].split('-')
           return el.join('')
         })
-        arr.sort((a, b) => a - b)
+        arr.sort()
         arr = arr.map((el) => {
           return el.slice(0, 4) + '-' + el.slice(4, 6) + '-' + el.slice(6, 8) + '-' + el.slice(8) + '.json'
         })
