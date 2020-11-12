@@ -3,6 +3,8 @@
   <h1 align="center">UNIDIARY</h1>
 </p>
 
+(UPDATE: I've been doing coding for a while now. Classes barely improve my coding skills; hence it makes no sense for me to rewrite code from class to keep this small project alive. I'm archiving this.)
+
 Unidiary (university diary) is a project for personal use. I wanted to keep track of the programming we do at university from day one until the end of second year (2020.-2022., later on we stop doing code in form of small snippets which makes it harder to track). Logs always come in handy. I was being uncertain about posting it on github but since I use multiple devices and I store snippets as JSON files, this way it's easier for me to keep it all in sync.
 
 It's built with Vue-electron.
